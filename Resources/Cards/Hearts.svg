@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="13.314591mm"
+   height="11.999993mm"
+   viewBox="0 0 13.314591 11.999993"
+   version="1.1"
+   id="svg1190"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="Hearts.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1192"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.78127806"
+     inkscape:cx="-90.236759"
+     inkscape:cy="197.11292"
+     inkscape:window-width="2409"
+     inkscape:window-height="1057"
+     inkscape:window-x="143"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1187" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-59.718987,-96.612316)">
+    <path
+       id="path218"
+       style="fill:#ff0000;stroke-width:0.267197"
+       d="M 69.309553,96.612424 C 67.513618,96.596154 66.37403,98.42749 66.37403,98.42749 v 0.01252 c -0.04413,-0.0701 -2.140725,-3.362061 -5.114854,-0.891355 -5.395719,4.482405 5.118508,11.063655 5.118508,11.063655 v -0.0214 c 0.03545,-0.0222 10.501964,-6.58674 5.115376,-11.061565 -0.798456,-0.663303 -1.533914,-0.911042 -2.183507,-0.916927 z" />
+  </g>
+</svg>
