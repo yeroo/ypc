@@ -13,7 +13,222 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Page Remove="Cards\Clubs\10_Clubs.xaml" />
+    <Page Remove="Cards\Clubs\2_Clubs.xaml" />
+    <Page Remove="Cards\Clubs\3_Clubs.xaml" />
+    <Page Remove="Cards\Clubs\4_Clubs.xaml" />
+    <Page Remove="Cards\Clubs\5_Clubs.xaml" />
+    <Page Remove="Cards\Clubs\6_Clubs.xaml" />
+    <Page Remove="Cards\Clubs\7_Clubs.xaml" />
+    <Page Remove="Cards\Clubs\8_Clubs.xaml" />
+    <Page Remove="Cards\Clubs\9_Clubs.xaml" />
+    <Page Remove="Cards\Clubs\A_Clubs.xaml" />
+    <Page Remove="Cards\Clubs\J_Clubs.xaml" />
+    <Page Remove="Cards\Clubs\K_Clubs.xaml" />
+    <Page Remove="Cards\Clubs\Q_Clubs.xaml" />
+    <Page Remove="Cards\Hearts\10_Hearts.xaml" />
+    <Page Remove="Cards\Hearts\2_Hearts.xaml" />
+    <Page Remove="Cards\Hearts\3_Hearts.xaml" />
+    <Page Remove="Cards\Hearts\4_Hearts.xaml" />
+    <Page Remove="Cards\Hearts\5_Hearts.xaml" />
+    <Page Remove="Cards\Hearts\6_Hearts.xaml" />
+    <Page Remove="Cards\Hearts\7_Hearts.xaml" />
+    <Page Remove="Cards\Hearts\8_Hearts.xaml" />
+    <Page Remove="Cards\Hearts\9_Hearts.xaml" />
+    <Page Remove="Cards\Hearts\A_Hearts.xaml" />
+    <Page Remove="Cards\Hearts\J_Hearts.xaml" />
+    <Page Remove="Cards\Hearts\K_Hearts.xaml" />
+    <Page Remove="Cards\Hearts\Q_Hearts.xaml" />
+    <Page Remove="Cards\Pikes\10_Pikes.xaml" />
+    <Page Remove="Cards\Pikes\2_Pikes.xaml" />
+    <Page Remove="Cards\Pikes\3_Pikes.xaml" />
+    <Page Remove="Cards\Pikes\4_Pikes.xaml" />
+    <Page Remove="Cards\Pikes\5_Pikes.xaml" />
+    <Page Remove="Cards\Pikes\6_Pikes.xaml" />
+    <Page Remove="Cards\Pikes\7_Pikes.xaml" />
+    <Page Remove="Cards\Pikes\8_Pikes.xaml" />
+    <Page Remove="Cards\Pikes\9_Pikes.xaml" />
+    <Page Remove="Cards\Pikes\A_Pikes.xaml" />
+    <Page Remove="Cards\Pikes\J_Pikes.xaml" />
+    <Page Remove="Cards\Pikes\K_Pikes.xaml" />
+    <Page Remove="Cards\Pikes\Q_Pikes.xaml" />
+    <Page Remove="Cards\Tiles\10_Hearts.xaml" />
+    <Page Remove="Cards\Tiles\10_Tiles.xaml" />
+    <Page Remove="Cards\Tiles\2_Tiles.xaml" />
+    <Page Remove="Cards\Tiles\3_Tiles.xaml" />
+    <Page Remove="Cards\Tiles\4_Tiles.xaml" />
+    <Page Remove="Cards\Tiles\5_Tiles.xaml" />
+    <Page Remove="Cards\Tiles\6_Tiles.xaml" />
+    <Page Remove="Cards\Tiles\7_Tiles.xaml" />
+    <Page Remove="Cards\Tiles\8_Tiles.xaml" />
+    <Page Remove="Cards\Tiles\9_Tiles.xaml" />
+    <Page Remove="Cards\Tiles\A_Tiles.xaml" />
+    <Page Remove="Cards\Tiles\J_Tiles.xaml" />
+    <Page Remove="Cards\Tiles\K_Tiles.xaml" />
+    <Page Remove="Cards\Tiles\Q_Tiles.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Include="ypc_icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Cards\Clubs\10_Clubs.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Clubs\2_Clubs.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Clubs\3_Clubs.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Clubs\4_Clubs.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Clubs\5_Clubs.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Clubs\6_Clubs.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Clubs\7_Clubs.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Clubs\8_Clubs.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Clubs\9_Clubs.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Clubs\A_Clubs.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Clubs\J_Clubs.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Clubs\K_Clubs.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Clubs\Q_Clubs.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Hearts\10_Hearts.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Hearts\2_Hearts.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Hearts\3_Hearts.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Hearts\4_Hearts.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Hearts\5_Hearts.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Hearts\6_Hearts.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Hearts\7_Hearts.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Hearts\8_Hearts.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Hearts\9_Hearts.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Hearts\A_Hearts.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Hearts\J_Hearts.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Hearts\K_Hearts.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Hearts\Q_Hearts.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Pikes\10_Pikes.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Pikes\2_Pikes.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Pikes\3_Pikes.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Pikes\4_Pikes.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Pikes\5_Pikes.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Pikes\6_Pikes.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Pikes\7_Pikes.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Pikes\8_Pikes.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Pikes\9_Pikes.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Pikes\A_Pikes.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Pikes\J_Pikes.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Pikes\K_Pikes.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Pikes\Q_Pikes.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Tiles\10_Tiles.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Tiles\2_Tiles.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Tiles\3_Tiles.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Tiles\4_Tiles.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Tiles\5_Tiles.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Tiles\6_Tiles.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Tiles\7_Tiles.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Tiles\8_Tiles.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Tiles\9_Tiles.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Tiles\A_Tiles.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Tiles\J_Tiles.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Tiles\K_Tiles.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Cards\Tiles\Q_Tiles.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
   <ItemGroup>
