@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,25 +8,21 @@ using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
-using System.Windows.Markup;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace ypc
+namespace ypc.Klondike
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for KlondikePage.xaml
     /// </summary>
-    public partial class MainWindow : NavigationWindow
+    public partial class KlondikePage : Page
     {
-        public MainWindow()
+        public KlondikePage()
         {
             InitializeComponent();
-          
         }
-
-       
     }
 }
